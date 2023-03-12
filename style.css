@@ -27,6 +27,7 @@ main{
     background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyp_JmCrrQwaV0vMzhaPRdGvHI3fLgLon8ug&usqp=CAU);
 
     background-size:cover;
+    background-repeat:no-repeat ;
 
 }
 
